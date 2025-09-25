@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Spotify Clone
 Spotify clone is the clone of spotify website music player in which you can play songs in it. It has the volume bar and song timeline to control the song. It is a functional design of spotify.
 <hr>
@@ -42,3 +43,6 @@ If you want to contact me, you can reach me through below handles.
 [![GitHub](https://img.shields.io/badge/Chirag_Nagar-252525?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Chirag047)
 
 [@Chirag047](https://github.com/Chirag047)
+=======
+# Spotify-Clone
+>>>>>>> 8e8df9fabbdd8d40e0a4883ba6e48cd9d0ca1ba6
